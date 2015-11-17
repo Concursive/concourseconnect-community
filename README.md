@@ -29,5 +29,5 @@ The application is built using more than sixty (60) tightly-integrated Java port
 * The source code version of ConcourseConnect is provided under the GNU Affero General Public License (AGPL)
 * You can download the source and compile it yourself by cloning the repo and build it with Apache Ant
 * Please note, the compiled version comes with a registration page for Concursive; once up and running this can be turned off in the build.properties file
+* Since developing this code openly for many years, Concursive is using a fork in additional configurations and spaces
 * For commercial support, integration and deployment please visit http://www.concursive.com
-* Since developing this code openly for many years, Concursive decided to fork the code and use it in another space
